@@ -1,3 +1,2 @@
 # helloword
-my first repository on github
-edit frist ->first
+my frist repository on github
